@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, Heroku**
 
-- 📫 How to reach me **jdblancoes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
